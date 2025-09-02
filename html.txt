@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My First Webpage</title>
+</head>
+<body style="font-family: Arial, sans-serif; text-align: center; background-color: #f2f2f2;">
+
+  <h1> Welcome to My Webpage </h1>
+  <p>This is a simple HTML page created as an example.</p>
+
+  <img src="https://via.placeholder.com/200" alt="Sample Image" style="border-radius: 10px; margin: 20px;">
+
+  <br>
+  <button onclick="alert('Hello! Thanks for clicking ')">Click Me!</button>
+
+</body>
+</html>
